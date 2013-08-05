@@ -1,0 +1,141 @@
+body {
+	padding: 0px;	
+	background: url('pix/bagarre-blurry.png') no-repeat center center fixed;
+}
+
+header {
+	float: right;
+}
+
+section#header {
+	height: 60px;
+	background-color: #F2F2F2;
+	color: #373737;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 30px;
+	margin-bottom: 30px;
+}
+
+table#controls {
+	float: right;
+	margin-top: -5px;
+	border-collapse: collapse;
+}
+
+canvas#dropzone {
+	border: 1px solid black;	
+}
+
+p.caption {
+	font-family: "Lucida Grande";
+	text-align: center;	
+}
+
+div.square {
+	width:130px;	
+}
+
+table#grid {
+	width: 100px;
+	margin: auto;
+}
+table#grid td {
+	padding: 3px;
+	vertical-align: top;
+}
+
+table#grid td p {
+}
+
+div#reset {
+	text-align: center;
+	padding-top: 28px;
+	background: url('reset-all-dark.png');
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: 30px 30px;
+}
+
+div#reset:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+div#garbagebin {
+	background: url('trash-dark.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 41px 40px;
+}
+div.garbagebin {
+	border: none;
+	width: 57px;
+	height: 56px;
+}
+
+div.garbagebinover {
+	border: 2px dashed #373737;
+	border-radius: 5px;
+	width: 53px;
+	height: 52px;
+}
+
+div#top_scroll_page {
+	position: fixed;
+	left: 0;
+	right: 0;
+	top:0;
+	height: 20px;
+	z-index: 999999;
+	border: 1px solid red;
+}
+
+td#togglelabels {
+	background-image: url('toggle-on.png');
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-size: 65px 22px;
+	padding-right: 70px;
+}
+td#togglelabels:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+td#togglelabels.switchON {
+	background-image: url('toggle-on.png');
+}
+td#togglelabels.switchOFF {
+	background-image: url('toggle-off.png');
+}
+
+
+div#bottom_scroll_page {
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom:0;
+	height: 20px;
+	z-index: 999999;
+	border: 1px solid red;
+}
+
+div#left_scroll_page {
+	position: fixed;
+	left: 0;
+	top:0;
+	bottom:0;
+	width: 20px;
+	z-index: 999999;
+	border: 1px solid red;
+}
+
+div#right_scroll_page {
+	position: fixed;
+	right: 0;
+	top:0;
+	bottom:0;
+	width: 20px;
+	z-index: 999999;
+	border: 1px solid red;
+}

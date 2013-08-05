@@ -1,0 +1,801 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cen",
+				"centerTop"
+			],
+			[
+				"center",
+				"centerLeft"
+			],
+			[
+				"cent",
+				"centerLeft"
+			],
+			[
+				"sh",
+				"shiftTop"
+			],
+			[
+				"shif",
+				"shiftLeft"
+			],
+			[
+				"hau",
+				"hauteur_etage"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"SETUP",
+				"SETUP_STEP2"
+			],
+			[
+				"SET",
+				"SETUP_STEP3"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"S",
+				"SETUP_STEP3"
+			],
+			[
+				"to",
+				"toggleToStep"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"5",
+				"5em"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"bord",
+				"border-collapse"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"marin",
+				"margin"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"sheet",
+				"sheetSize"
+			],
+			[
+				"fram",
+				"frameIDs"
+			],
+			[
+				"shee",
+				"sheetSize"
+			],
+			[
+				"API",
+				"APISupport"
+			],
+			[
+				"AP",
+				"APISupport"
+			],
+			[
+				"ar",
+				"artist"
+			],
+			[
+				"arti",
+				"artist"
+			],
+			[
+				"tra",
+				"track"
+			],
+			[
+				"t",
+				"tracks"
+			],
+			[
+				"art",
+				"artID"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"label",
+				"labelState"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"ta",
+				"table-row"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mari",
+				"margin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Processing/Processing.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"csslint",
+				"CSSLint: Run CSSLint"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 191.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jérémy/Projects/Petits dahus/plateau/index.html",
+		"/C/Users/Jérémy/Projects/Petits dahus/plateau/style.css",
+		"/C/Users/Jérémy/Projects/Petits dahus/plateau/position.js",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/Default/exec.py",
+		"/C/Users/Jérémy/Projects/Petits dahus/plateau/plateau.pde",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/Processing/Processing.sublime-build",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/sublimelinter/modules/css.py",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.py",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/sublimelinter/modules/libs/csslint/linter.js",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/sublimelinter/modules/__init__.py",
+		"/C/Users/Jérémy/Links/Petits dahus.lnk",
+		"/C/Users/Jérémy/Downloads/skrollr-master/skrollr-master/examples/main.css",
+		"/C/Users/Jérémy/Downloads/skrollr-master/skrollr-master/examples/fixed-positioning.css",
+		"/C/Users/Jérémy/Downloads/skrollr-master/skrollr-master/index.html",
+		"/C/Users/Jérémy/Documents/Waffle/Site waffle/jquery-2.0.2.min.js",
+		"/C/Users/Jérémy/Downloads/skrollr-master/skrollr-master/examples/README.md",
+		"/C/Users/Jérémy/Documents/Waffle/Site waffle/scrolling.js",
+		"/C/Users/Jérémy/Documents/Waffle/Site waffle/tryouts/index.html",
+		"/C/Users/Jérémy/Documents/Waffle/Site waffle/tryouts/style.css",
+		"/C/Users/Jérémy/Documents/Waffle/Site waffle/style.css",
+		"/C/Users/Jérémy/Documents/Waffle/Site waffle/index.html",
+		"/C/Users/Jérémy/Documents/GitHub/jsPDF/jspdf.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/app/print.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/app/settings.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/index.html",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/app/declarations.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/css/menu.css",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/app/actions.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/css/settings col2.css",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/css/settings.css",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/app/launch.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/css/home.css",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/app/picture.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/css/general.css",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/css/fonts.css",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/.gitignore",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/css/warning.css",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/css/settings col1.css",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/README.md",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/app/environment.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/app/home.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/app/init.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/analytics.js",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Jérémy/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/testing/framingappstate.txt",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/css/normalize.css",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/jspdf.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/LICENSE.md",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/launch",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/js/jquery-2.0.1.min.js",
+		"/C/Users/Jérémy/Documents/GitHub/framingapp/framingapp.sublime-project",
+		"/C/Users/Jérémy/Documents/Spotify/waffle-app/normalize.css",
+		"/C/Users/Jérémy/Documents/Spotify/waffle-app/grid.css",
+		"/C/Users/Jérémy/Documents/Spotify/waffle-app/grid.html",
+		"/C/Users/Jérémy/Documents/Spotify/waffle-app/waffle.js.js",
+		"/C/Users/Jérémy/Documents/Spotify/waffle-app/grid.js",
+		"/C/Users/Jérémy/Documents/Waffle/driver.py",
+		"/C/Users/Jérémy/Projects/AuFilDeLyon/aufildelyon.sublime-project",
+		"/C/Users/Jérémy/Projects/AuFilDeLyon/index.html",
+		"/C/Users/Jérémy/Documents/Waffle/app/bagarre-topleft.png",
+		"/C/Users/Jérémy/Projects/AuFilDeLyon/css/style.css",
+		"/C/Users/Jérémy/Projects/AuFilDeLyon/css/tarifs.css",
+		"/C/Users/Jérémy/Projects/AuFilDeLyon/css/footer.css",
+		"/C/Users/Jérémy/Projects/AuFilDeLyon/css/header.css",
+		"/C/Users/Jérémy/Projects/AuFilDeLyon/.gitignore",
+		"/C/Users/Jérémy/Projects/AuFilDeLyon/js/jquery-1.9.1.min.js",
+		"/C/Users/Jérémy/Projects/Au fil de Lyon/style.css",
+		"/C/Users/Jérémy/Projects/Au fil de Lyon/index.html",
+		"/C/Users/Jérémy/Projects/Au fil de Lyon/jquery-1.9.1.min.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Slot",
+			"4",
+			"hexagon",
+			"background",
+			"positionned",
+			"i * ",
+			"i-1",
+			"i*",
+			"longueur_encoche",
+			"class Linter",
+			"linter",
+			"decode",
+			"encode",
+			"'utf-8'",
+			"encode",
+			"run_once",
+			"_run",
+			"async",
+			"encode(",
+			"console",
+			"        ",
+			"console.lo",
+			"opacity",
+			"setPois",
+			"top",
+			"SETUP",
+			"ENTER_SETUP",
+			"setupstep",
+			"hereishowitworks",
+			"step1",
+			"#",
+			"setup",
+			"setup-step",
+			"?",
+			"border",
+			"p ",
+			"</p>",
+			"<p>",
+			".border",
+			"border",
+			"hr",
+			"tiny",
+			"hr",
+			"ff6860",
+			"h2",
+			"section",
+			".intro",
+			"'.intro",
+			"img",
+			"issue",
+			"<td><div class=\"slot\"></div></td>",
+			"<td></td>",
+			"		\n",
+			"class",
+			"div",
+			"style",
+			"5A9DD",
+			"a4",
+			",",
+			"a0",
+			"a4",
+			"on(",
+			"format",
+			"select",
+			"font",
+			"size",
+			"color",
+			"input",
+			"font",
+			"'me",
+			"'nobile",
+			" 0px",
+			"0px",
+			"framepost",
+			"pageRes",
+			"pdf.",
+			"frameID",
+			"live",
+			".on(",
+			"live",
+			"allFrameFormats",
+			"live",
+			".on(",
+			"on(",
+			"on",
+			"live",
+			".on(",
+			"angle",
+			"72",
+			"dpi",
+			"format",
+			"BytescoutPDF",
+			"addpage",
+			".live(",
+			"function",
+			"res",
+			"resolution",
+			"live",
+			"webfont",
+			"font",
+			"nobile",
+			"play",
+			"playslot",
+			"console.log",
+			"next",
+			"load()",
+			"overflow",
+			"reset",
+			"resetSlot",
+			"slot",
+			"refreshSlot",
+			"store",
+			"applyLabel",
+			"resetSlot",
+			"def apply",
+			"load(",
+			"dom",
+			"switch",
+			"radius",
+			"jukeboxkeyinput",
+			"console",
+			"pix",
+			"jukeboxkeyinput",
+			"empty",
+			"dom.canv",
+			"dom.lab",
+			"dom",
+			"Slot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sys.getfilesystemencoding()",
+			"SETUP_START",
+			"step3",
+			"step2bis",
+			"step2",
+			"playlist-item"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"print",
+				"js/app/print.js"
+			],
+			[
+				"se",
+				"js/app/settings.js"
+			],
+			[
+				"decl",
+				"js/app/declarations.js"
+			],
+			[
+				"menu",
+				"css/menu.css"
+			],
+			[
+				"action",
+				"js/app/actions.js"
+			],
+			[
+				"settin",
+				"js/app/settings.js"
+			],
+			[
+				"sett",
+				"css/settings.css"
+			],
+			[
+				"acti",
+				"js/app/actions.js"
+			],
+			[
+				"decla",
+				"js/app/declarations.js"
+			],
+			[
+				"picture",
+				"js/app/picture.js"
+			],
+			[
+				"home",
+				"css/home.css"
+			],
+			[
+				"launch",
+				"js/app/launch.js"
+			],
+			[
+				"gene",
+				"css/general.css"
+			],
+			[
+				"settn",
+				"js/app/settings.js"
+			],
+			[
+				"gen",
+				"css/general.css"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"font",
+				"css/fonts.css"
+			],
+			[
+				"init",
+				"js/app/init.js"
+			],
+			[
+				"home.js",
+				"js/app/home.js"
+			],
+			[
+				"hom",
+				"css/home.css"
+			],
+			[
+				"fonts",
+				"css/fonts.css"
+			],
+			[
+				"laun",
+				"js/app/launch.js"
+			],
+			[
+				"env",
+				"js/app/environment.js"
+			],
+			[
+				"setting",
+				"js/app/settings.js"
+			],
+			[
+				"dec",
+				"js/app/declarations.js"
+			],
+			[
+				"css",
+				"css/home.css"
+			],
+			[
+				"anal",
+				"js/analytics.js"
+			],
+			[
+				"setti",
+				"js/app/settings.js"
+			],
+			[
+				"test",
+				"testing/framingappstate.txt"
+			],
+			[
+				"actions",
+				"js/app/actions.js"
+			],
+			[
+				"act",
+				"js/app/actions.js"
+			],
+			[
+				"jspdf",
+				"js/jspdf.js"
+			],
+			[
+				".js",
+				"js/app/print.js"
+			],
+			[
+				"app/",
+				"js/app/actions.js"
+			],
+			[
+				"csshome",
+				"css/home.css"
+			],
+			[
+				"cssgene",
+				"css/general.css"
+			],
+			[
+				"hom.js",
+				"js/app/home.js"
+			],
+			[
+				"settjs",
+				"js/app/settings.js"
+			],
+			[
+				"gito",
+				".gitignore"
+			],
+			[
+				"sublime",
+				"framingapp.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true
+}

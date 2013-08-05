@@ -1,0 +1,39 @@
+{
+  "AppDescription": {
+    "en": "Companion app for the Waffle"
+  },
+  "AppIcon": {
+    "18x18": "",
+    "64x64": "",
+    "128x128": "",
+    "300x300": ""
+  },
+  "AppName": {
+    "en": "Waffle"
+  },
+  "BundleIdentifier": "waffle",
+  "BundleType": "Application",
+  "BundleVersion": "0.0.1",
+  "RequiredInteface": 1,
+  "Dependencies": {
+    "api": "1.25.0",
+    "views": "1.18.1"
+  },
+  "SupportedDeviceClasses": [
+    "Web",
+    "Desktop"
+  ],
+  "SupportedLanguages": [
+    "en"
+  ],
+  "ApplicationLinkTypes": [
+    "playlist",
+    "album"
+  ],
+  "AcceptedLinkTypes": [
+    "album",
+    "playlist"
+  ],
+  "VendorIdentifier": "com.myorganization"
+}
+
